@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#Rstudio connect folder 
+rsconnect/
+
+#R project file 
+*.Rproj
